@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coffee Finder</string>
+    <string name="grind">432 Cleveland St\nClearwater, Florida 33755</string>
+    <string name="knee">541 S Fort Harrison Ave\nClearwater, FL 33756</string>
+    <string name="haus">3690 E Bay Dr\nLargo, FL 33771</string>
+    <string name="dunedin">730 Broadway\nDunedin, FL 34698</string>
+</resources>
